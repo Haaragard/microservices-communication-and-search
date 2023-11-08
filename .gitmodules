@@ -1,0 +1,8 @@
+[submodule "ms-consumer-api"]
+	path = ms-consumer-api
+	url = https://github.com/Haaragard/ms-consumer-api
+	branch = main
+[submodule "ms-ad-api"]
+	path = ms-ad-api
+	url = https://github.com/Haaragard/ms-ad-api
+	branch = main
